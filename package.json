@@ -1,6 +1,6 @@
 {
   "name": "@chewbank/ioa-nats",
-  "version": "9.8.4",
+  "version": "9.8.5",
   "dependencies": {
     "@chewbank/ioa-router": "^9.8.2",
     "nats": "^1.4.9"
