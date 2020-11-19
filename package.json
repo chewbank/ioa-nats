@@ -1,0 +1,26 @@
+{
+  "name": "@chewbank/ioa-nats",
+  "version": "9.8.4",
+  "dependencies": {
+    "@chewbank/ioa-router": "^9.8.2",
+    "nats": "^1.4.9"
+  },
+  "deprecated": false,
+  "description": "nats 消息队列 ioa 组件",
+  "devDependencies": {
+    "@chewbank/ioa": "^10.0.4",
+    "@chewbank/ioa-config": "^10.0.0",
+    "zpromise": "^1.5.4"
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "files": [
+    "lib"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
